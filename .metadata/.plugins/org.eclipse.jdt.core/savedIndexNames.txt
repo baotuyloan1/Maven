@@ -1,0 +1,9 @@
+INDEX VERSION 1.132+D:\Self-Study\Maven\.metadata\.plugins\org.eclipse.jdt.core
+779756842.index
+2105288153.index
+3865054589.index
+1451043223.index
+1219836273.index
+1500572408.index
+776701639.index
+1865797976.index
